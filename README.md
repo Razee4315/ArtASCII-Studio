@@ -7,6 +7,10 @@ ArtASCII Studio is an advanced image-to-ASCII art conversion tool that offers un
 - **Name**: Saqlain Abbas
 - **GitHub**: [Razee4315](https://github.com/Razee4315)
 
+## Screenshots
+![ArtASCII 1](screenshots/1.jpg)
+![ArtASCII 2](screenshots/2.jpg)
+
 ## Key Features
 - 🎨 Advanced Image-to-ASCII Conversion
 - 🔍 Detail Preservation Technology
