@@ -1,0 +1,33 @@
+/* Retro-style UI Theme */
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #1a1a1a;
+    color: #00ff00;
+}
+
+.ascii-display {
+    background-color: #000;
+    border: 2px solid #00ff00;
+    padding: 10px;
+    white-space: pre;
+    overflow-x: auto;
+}
+
+.controls {
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #00ff00;
+    color: #000;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #00cc00;
+}

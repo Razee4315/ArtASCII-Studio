@@ -1,0 +1,33 @@
+QWidget {
+    background-color: #000;
+    color: #FFA500;
+    font-family: "Retro Gaming";
+}
+
+QTextEdit {
+    background-color: #000;
+    color: #FFA500;
+    border: 1px solid #FFA500;
+}
+
+QPushButton {
+    background-color: #FFA500;
+    color: #000;
+    border: 1px solid #FFA500;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: #FF8C00;
+}
+
+QSlider::groove:horizontal {
+    background-color: #FFA500;
+    height: 5px;
+}
+
+QSlider::handle:horizontal {
+    background-color: #FFA500;
+    width: 10px;
+    margin: -5px 0;
+}
